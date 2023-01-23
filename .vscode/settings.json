@@ -1,0 +1,20 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "debug.javascript.autoExpandGetters": true,
+    "debug.javascript.usePreview": false,
+    "editor.tabSize": 4,
+    "files.eol": "\n",
+    "prettier.trailingComma": "all",
+    "prettier.endOfLine": "auto",
+    "prettier.arrowParens": "always",
+    "prettier.singleQuote": false,
+    "typescript.preferences.quoteStyle": "double",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
